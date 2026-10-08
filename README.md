@@ -1,27 +1,27 @@
 # Onur Siper
 
-IT, systems, and automation practitioner exploring how practical AI engineering can support real work without giving up human authority, security boundaries, or verifiable outcomes.
+My background is in **technical delivery, application management, and service ownership**. I work where business needs, applications, technical teams, and external partners meet—turning unclear situations into informed decisions and work that gets followed through.
 
-## Current project
+[**Professional portfolio →**](https://portfolio.onursiper.chatgpt.site/) · [**Signals — writing →**](https://signalsbyonursiper.substack.com/)
+
+**WolfPack** is where I bring that experience into a personal AI and automation project.
+
+## WolfPack
 
 <a href="https://github.com/siperonur/wolfpack">
-  <img align="right" src="assets/WolfPack_GitHub_Avatar.png" alt="WolfPack logo" width="120">
+  <img src="assets/WolfPack_Header.png" alt="WolfPack — One XO, many windows. Human direction, machine cognition, checked outcomes." width="100%">
 </a>
 
-### [WolfPack](https://github.com/siperonur/wolfpack)
+[**WolfPack**](https://github.com/siperonur/wolfpack) is an operating environment for working with machine cognition across desktop, mobile, and messaging interfaces. At its center is **XO—Executive Officer**, a supervisory assistant that helps turn an objective into organized work, execution, and checked results.
 
-WolfPack is a personal, multi-machine AI and automation environment built around **one persistent XO across many interfaces**. It investigates bounded AI execution, replaceable models and providers, privilege separation, Git-backed state, recovery, and evidence-based human/AI collaboration.
+I set the direction and boundaries. XO carries out approved work; I remain responsible for the decisions and for what the project becomes.
 
-The project is operational and evolving. Its public repository documents what is working, what remains experimental, and why the system is designed the way it is.
+The project combines existing tools with deliberately small integrations: a shared assistant runtime, Git-backed project context, restricted messaging, and visible browser workflows. The emphasis is on useful delegation, continuity, and engineering judgment—not adding another framework for its own sake.
 
-## Technical focus
+[**Explore WolfPack →**](https://github.com/siperonur/wolfpack)
 
-- IT systems and practical automation
-- Linux and Windows environments
-- Git-backed operational state and recovery
-- Python, PowerShell, JavaScript, and TypeScript
-- Secure remote access and privilege separation
-- Human/AI operating models with bounded authority
-- Observable verification instead of completion-by-narration
+## Selected work
 
-<br clear="right">
+- [**Continuing real work across interfaces**](https://github.com/siperonur/wolfpack/blob/main/docs/engineering-work.md#continuing-real-work-across-interfaces) — starting a research task on a phone and continuing on a workstation with the work and decisions intact.
+- [**Messaging without a second assistant runtime**](https://github.com/siperonur/wolfpack/blob/main/docs/engineering-work.md#messaging-without-a-second-assistant-runtime) — connecting mobile conversation and files to the existing assistant while keeping transport privileges separate.
+- [**Household: a simpler foundation for XO**](https://github.com/siperonur/wolfpack/blob/main/docs/engineering-work.md#household-a-simpler-foundation-for-xo) — choosing native household capabilities and defining where cognition could add value next.
